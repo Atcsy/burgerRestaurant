@@ -1,14 +1,17 @@
-<div class="welcome-menu">
-      <div class="logo">
+<div class="side-menu">
+      <a  href="/" class="logo">
         <img src="/img/logo.png">
-      </div>
+      </a>
       <div class="menu">
         <div class="menu-title">
           Menu
         </div>
         <ul class="links">
           <li>
-            <a href="/menu">Menu</a>
+            <a href="/menu">Food</a>
+          </li>
+          <li>
+            <a href="/about">About Us</a>
           </li>
           <li>
             <a href="/waitlist">Waitlist</a>
