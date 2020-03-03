@@ -148,7 +148,7 @@
               </p>
               <div class="food-image">
                 <img
-                  src="https://pngriver.com/wp-content/uploads/2018/04/Download-Cupcake-PNG-Transparent-Image-420x190.png">
+                  src="/img/Cupcake-PNG-Transparent.png">
               </div>
             </div>
           </div>
