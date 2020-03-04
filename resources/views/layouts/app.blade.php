@@ -24,6 +24,7 @@
         </section>
     </section>
   </section>
-  
+  @include('layouts.includes.admin-side-menu')
+
     </body>
 </html>

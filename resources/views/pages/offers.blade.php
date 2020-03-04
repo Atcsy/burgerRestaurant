@@ -81,4 +81,6 @@
         </div>
       </div>
     </div>
+    @include('includes.admin-side-menu')
+
 @endsection
